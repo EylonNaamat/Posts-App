@@ -63,27 +63,27 @@ The backend of this application is built using Node.js and provides the followin
   ```bash
    GET /posts
   
-  Response:
-  ```json
+  **Response:**
+   ```json
    {
-    "posts": [
-      {
-        "body": "Sample body 1",
-        "author": "Author 1",
-        "id": "1"
-      },
-      {
-        "body": "Sample body 2",
-        "author": "Author 2",
-        "id": "2"
-      },
-      {
-        "body": "Sample body 3",
-        "author": "Author 3",
-        "id": "3"
-      }
-    ]
-  }
+     "posts": [
+       {
+         "body": "Sample body 1",
+         "author": "Author 1",
+         "id": "1"
+       },
+       {
+         "body": "Sample body 2",
+         "author": "Author 2",
+         "id": "2"
+       },
+       {
+         "body": "Sample body 3",
+         "author": "Author 3",
+         "id": "3"
+       }
+     ]
+   }
 
 - Fetch Single Post
   ```bash
