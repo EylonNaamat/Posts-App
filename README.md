@@ -63,8 +63,7 @@ The backend of this application is built using Node.js and provides the followin
   ```bash
    GET /posts
   
-  **Response:**
-   ```json
+  Response:
    {
      "posts": [
        {
@@ -102,14 +101,12 @@ The backend of this application is built using Node.js and provides the followin
    POST /posts
   
   Request Body:
-  ```json
    {
     "body": "Post content",
     "author": "Post author"
   }
   
   Response:
-  ```json
    {
     "body": "Post content",
     "author": "Post author",
