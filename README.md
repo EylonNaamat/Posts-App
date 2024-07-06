@@ -61,7 +61,7 @@ The backend of this application is built using Node.js and provides the followin
 
 - Fetch All Posts
   ```bash
-   GET /posts
+  GET /posts
   
   Response:
    {
@@ -86,7 +86,7 @@ The backend of this application is built using Node.js and provides the followin
 
 - Fetch Single Post
   ```bash
-   GET /posts/:id
+  GET /posts/:id
   
   Response:
   ```json
@@ -98,7 +98,7 @@ The backend of this application is built using Node.js and provides the followin
 
 - Create Post
   ```bash
-   POST /posts
+  POST /posts
   
   Request Body:
    {
