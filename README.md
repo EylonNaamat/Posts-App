@@ -112,6 +112,5 @@ The backend of this application is built using Node.js and provides the followin
     "id": "generated_id"
   }
 
-## Frontend
 
-The frontend is built using React and provides a user interface for interacting with the backend API.
+
